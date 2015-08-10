@@ -1,0 +1,4 @@
+ALTER TABLE products
+ADD CONSTRAINT FK_FCT_PRS FOREIGN KEY (user_uuid) REFERENCES users (uuid)
+
+
