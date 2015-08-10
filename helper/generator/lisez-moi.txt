@@ -1,0 +1,41 @@
+Version
+----------------------------------------------------------------------------- 
+myGenerator 2006 beta 2
+
+
+Présentation
+----------------------------------------------------------------------------- 
+MyGenerator 2006 beta 2 est un générateur de back office en PHP (pages web d'administration), 
+ pour les bases des données MySql, simple à utiliser et facile à intégrer dans site Internet.
+MyGenerator 2006 est un outil d'aide à la programmation à vous webmasters et développeur web 
+ débutants comme experts. 
+MyGenerator met à votre disposition une solution rapide, efficace, stable, et gratuite pour 
+ administrer une base des données de votre site dynamique utilisant PHP comme langage de programmation.
+MyGenerator 2006 est distribué sous licence GNU. Voir le fichier GNU-License.txt pour plus d'infos.
+
+Installation:
+-----------------------------------------------------------------------------
+Dézipper les fichiers contenus dans cette distribution de myGenerator 2006 puis copier les sur votre serveur. 
+Par exemple dans www si vous utiliser easyphp. 
+
+
+Utilisation
+-----------------------------------------------------------------------------
+1. Lancez myGenerator dans un navigateur ;
+2. Changez les informations de connexion à MySql s’ils sont invalides ou si vous voulez Changer celles utilisées par défaut ;
+3. Indiquez la base des données concernée ;
+4. Choisissez les tables concernées et indiquez leurs clés secondaires ;
+5. Lancez la génération de back office;
+6. Et ça marche : cliquez sur le nom de votre back office pour le tester
+
+
+Intégration du back office dans votre site Web
+----------------------------------------------------------------------------- 
+C'est très facile : copier le contenu du back office généré dans un dossier dédier sur votre serveur web, 
+lancer la page index.php et ça marche.
+
+
+License
+----------------------------------------------------------------------------- 
+GNU GENERAL PUBLIC LICENSE 
+Copyright (C) 2006 NIYIBIZI Emile Bniz <bnizworks@gmail.com> pour bnizworks <http://www.bnizworks.4t.com>

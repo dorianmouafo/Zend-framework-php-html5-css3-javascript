@@ -1,0 +1,62 @@
+{
+  "game1": {
+    "type": "calcul",
+    "question": {
+      "string": "2+4=6",
+      "level": "Very Easy"
+    },
+    "answers": [
+    ]
+  },
+  "game2": {
+    "type": "findword",
+    "question": {
+      "string": "solution",
+      "level": "Very Easy"
+    },
+    "answers": [
+    ]
+  },
+  "game3": {
+    "type": "qcm",
+    "question": {
+      "string": "où se trouve le cameroun ?",
+      "level": "Very Easy"
+    },
+    "answers": [
+      [
+        "En Afrique",
+        true
+      ],
+      [
+        "En afrique centrale",
+        true
+      ],
+      [
+        "En Afrique australe",
+        false
+      ]
+    ]
+  },
+  "game4": {
+    "type": "abcdaire",
+    "question": {
+      "string": "b",
+      "level": "Very Easy"
+    },
+    "answers": [
+      [
+        "b-a-ba",
+        true
+      ],
+      [
+        "b-e-be",
+        true
+      ],
+      [
+        "b-i-bi",
+        true
+      ]
+    ]
+  }
+}
